@@ -1,4 +1,4 @@
-[![Deploy](https://wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy/bamboo-example)
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/bamboo-example)
 
 # Bamboo
 
