@@ -1,4 +1,7 @@
 {
 	"id": "bamboo",
-	"image": "cptactionhank/atlassian-bamboo:6.5.0"
+	"image": "cptactionhank/atlassian-bamboo:6.5.0",
+	"healthCheck": {
+		"url": "localhost:8085"
+	}
 }
